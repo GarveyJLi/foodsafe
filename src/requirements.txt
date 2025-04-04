@@ -131,3 +131,8 @@ websocket-client==1.6.4
 pytesseract 
 Pillow
 pillow-heif
+tesseract
+keras_ocr
+tensorflow
+keras==2.15.0
+

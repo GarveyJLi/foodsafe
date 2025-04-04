@@ -1,0 +1,166 @@
+common_name,alternative_name_1,alternative_name_2,alternative_name_3
+Flour,All-purpose flour,Plain flour,Self-raising flour
+Sugar,Cane sugar,White sugar,Granulated sugar
+Salt,Table salt,Sea salt,Kosher salt
+Butter,Unsalted butter,Salted butter,Clarified butter
+Milk,Whole milk,Skim milk,2% milk
+Egg,Chicken egg,Hen egg,Organic egg
+Baking powder,Double-acting baking powder,Leavening agent,Quick-rising baking powder
+Baking soda,Sodium bicarbonate,Leavening soda,Alkaline soda
+Olive oil,Extra virgin olive oil,Light olive oil,Olive oil blend
+Vegetable oil,Canola oil,Sunflower oil,Soybean oil
+Honey,Raw honey,Processed honey,Manuka honey
+Vanilla extract,Vanilla essence,Vanilla flavor,Vanilla syrup
+Yeast,Active dry yeast,Instant yeast,Fresh yeast
+Cheese,Cheddar cheese,American cheese,Parmesan cheese
+Tomato,Cherry tomato,Heirloom tomato,Plum tomato
+Garlic,Fresh garlic,Garlic cloves,Garlic powder
+Onion,Yellow onion,Red onion,White onion
+Lemon,Lemon juice,Lemon zest,Lemon rind
+Cinnamon,Ground cinnamon,Cinnamon powder,Cinnamon stick
+Nutmeg,Ground nutmeg,Whole nutmeg,Nutmeg powder
+Cocoa powder,Unsweetened cocoa,Chocolate powder,Cacao powder
+Coconut oil,Refined coconut oil,Virgin coconut oil,Cold-pressed coconut oil
+Rice,Basmati rice,Jasmine rice,Long-grain rice
+Pasta,Spaghetti,Fusilli,Penne
+Chicken,Chicken breast,Chicken thigh,Whole chicken
+Beef,Ground beef,Beef steak,Beef brisket
+Pork,Ground pork,Pork loin,Pork belly
+Turkey,Ground turkey,Turkey breast,Whole turkey
+Fish,Salmon,Whitefish,Tilapia
+Potato,Idaho potato,Yukon Gold potato,Red potato
+Carrot,Fresh carrot,Baby carrot,Carrot sticks
+Spinach,Fresh spinach,Spinach leaves,Baby spinach
+Lettuce,Iceberg lettuce,Romaine lettuce,Leaf lettuce
+Cucumber,English cucumber,Pickling cucumber,Slicing cucumber
+Bell pepper,Red bell pepper,Green bell pepper,Yellow bell pepper
+Mushroom,Button mushroom,Portobello mushroom,Cremini mushroom
+Tomato paste,Tomato puree,Concentrated tomato paste,Tomato concentrate
+Mayonnaise,Mayonnaise sauce,Mayonnaise spread,Miracle Whip
+Mustard,Yellow mustard, Dijon mustard,Spicy mustard
+Ketchup,Tomato ketchup,Heinz ketchup,Red ketchup
+Barbecue sauce,BBQ sauce,Grill sauce,Smoky sauce
+Worcestershire sauce, Worcestershire, Lea & Perrins,Steak sauce
+Soy sauce,Dark soy sauce,Light soy sauce,Tamari sauce
+Vinegar,White vinegar,Apple cider vinegar,Balsamic vinegar
+Sour cream,Plain sour cream,Full-fat sour cream,Light sour cream
+Cream cheese,Philadelphia cream cheese,Soft cheese,Spreadable cheese
+Cream,Heavy cream,Whipping cream,Double cream
+Almond,Almonds,Raw almonds,Toasted almonds
+Peanut,Peanuts,Roasted peanuts,Crushed peanuts
+Cashew,Raw cashew,Roasted cashew,Chopped cashew
+Walnut,English walnut,Black walnut,Chopped walnut
+Pecan,Pecan nuts,Chopped pecans,Toasted pecans
+Hazelnut,Filbert,Roasted hazelnuts,Ground hazelnut
+Avocado,Avocado pear,Butter fruit,Alligator pear
+Lime,Lime juice,Lime zest,Key lime
+Chili pepper,Red chili,Green chili,Habanero
+Cilantro,Coriander,Fresh coriander,Cilantro leaves
+Basil,Fresh basil,Dried basil,Thai basil
+Oregano,Greek oregano,Italian oregano,Marjoram
+Thyme,Lemon thyme,Fresh thyme,Dried thyme
+Rosemary,Fresh rosemary,Chopped rosemary,Dried rosemary
+Parsley,Fresh parsley,Italian parsley,Curly parsley
+Mint,Fresh mint,Dried mint,Spearmint
+Paprika,Sweet paprika,Smoked paprika,Hot paprika
+Cumin,Ground cumin,Cumin seeds,Toasted cumin
+Chili powder,Tex-Mex chili powder,Chili seasoning,Spicy chili powder
+Taco seasoning,Fajita seasoning,Chili seasoning,Spice mix
+Turmeric,Ground turmeric,Fresh turmeric,Turmeric root
+Ginger,Fresh ginger,Ground ginger,Ginger root
+Clove,Ground clove,Cloves,Whole cloves
+Allspice,Ground allspice,Pimento,Allspice berries
+Sage,Fresh sage,Dried sage,Common sage
+Sesame,Ground sesame,Sesame seeds,Toasted sesame
+Coconut,Shredded coconut,Desiccated coconut,Fresh coconut
+Chia seed,Chia,Chia powder,Chia flour
+Flaxseed,Ground flaxseed,Whole flaxseed,Flax meal
+Cornstarch,Maize starch,Modified corn starch,Flour starch
+Gelatin,Unflavored gelatin,Jelly crystals,Collagen
+Cornmeal,Yellow cornmeal,White cornmeal,Stone-ground cornmeal
+Oats,Rolled oats,Steel-cut oats,Oat flakes
+Brown sugar,Light brown sugar,Dark brown sugar,Raw sugar
+Maple syrup,Pure maple syrup,Maple extract,Maple flavored syrup
+Agave syrup,Agave nectar,Blue agave syrup,Agave sweetener
+Molasses,Blackstrap molasses,Light molasses,Unsulfured molasses
+Rice vinegar,White rice vinegar,Black rice vinegar,Japanese rice vinegar
+Sriracha,Sriracha sauce,Chili garlic sauce,Hotsauce
+Hot sauce,Tabasco sauce,Chili sauce,Spicy sauce
+Bread,White bread,Whole wheat bread,Multigrain bread
+Bagel,Plain bagel,Everything bagel,Garlic bagel
+Tortilla,Flour tortilla,Corn tortilla,Soft tortilla
+Cracker,Salty cracker,Water cracker,Snack cracker
+Granola,Granola bars,Oatmeal granola,Cluster granola
+Ice cream,Frozen dessert,Vanilla ice cream,Chocolate ice cream
+Yogurt,Greek yogurt,Non-fat yogurt,Flavored yogurt
+Salt,Sodium chloride,NaCl,Common salt
+Sugar,Sucrose,Table sugar,Cane sugar
+Aspartame,Aspartylphenylalanine,Equal,Sweetener
+Monosodium glutamate,MSG,Glutamic acid monosodium salt,Ajinomoto
+Citric acid,2-hydroxypropane-1,2,3-tricarboxylic acid,Citrus acid,Acidulant
+Tartaric acid,2,3-dihydroxybutanedioic acid,Potassium bitartrate,Wine acid
+Acetic acid,Ethanoic acid,Vinegar acid,CH3COOH
+Lactic acid,2-Hydroxypropanoic acid,Lactate,Milk acid
+Butyric acid,Butanoic acid,Butyrate,Butter acid
+Malic acid,2-Hydroxybutanedioic acid,Apple acid,Malate
+Benzoic acid,Carboxybenzene,Benzoate,Phenylcarboxylic acid
+Sodium bicarbonate,Baking soda,NaHCO3,Leavening agent
+Sodium nitrate,Sodium nitrite,NaNO3,Preservative
+Potassium sorbate,Potassium salt of sorbic acid,Sorbic acid preservative,Sorbic acid potassium salt
+Calcium propionate,Calcium salt of propionic acid,Preservative,Propionic acid calcium salt
+Caramel color,E150a,browning agent,Sugar color
+Calcium carbonate,Calcite,Limestone,Food additive
+Xanthan gum,Xanthan polysaccharide,Thickening agent,Gum X
+Guar gum,Guaran,Gum guar,Thickening agent
+Gelatin,Collagen,Hydrolyzed collagen,Animal gelatin
+Sodium alginate,Sodium salt of alginic acid,Alginic acid,Algin
+Lecithin,Phosphatidylcholine,Lecithin granules,Emulsifier
+Titanium dioxide,TiO2,White pigment,Food colorant
+Propylene glycol,1,2-propanediol,Food grade propylene glycol,Antifreeze
+Sodium benzoate,benzoic acid sodium salt,Food preservative,Food additive
+Acesulfame K,Acesulfame potassium,Sweet One,Sweetener
+Sucralose,1,6-dichloro-1,6-dideoxygalactosucrose,Splenda,Chlorinated sugar
+Saccharin,O-Sulfobenzimide,Sweet'N Low,Artificial sweetener
+High fructose corn syrup,HFCS,Glucose-fructose syrup,Corn syrup
+Monoglycerides,Monoacylglycerol,Fats,Emulsifier
+Diglycerides,Diacylglycerol,Fats,Emulsifier
+Polysorbate 80,Polyoxyethylene sorbitan monooleate,Emulsifier,Tween 80
+Sodium chloride,Salt,Table salt,Rock salt
+Potassium chloride,Potassium salt of hydrochloric acid,Food salt,Preservative
+Sodium lauryl sulfate,Laureth sulfate,Surfactant,Cleaning agent
+Maltodextrin,Modified starch,Hydrolyzed starch,Food thickener
+Carrageenan,Irish moss,Seaweed extract,Gelling agent
+Sodium citrate,Trisodium citrate,Citric acid sodium salt,Citrate
+Monoglyceride,Monoacylglyceride,Glycerol ester,Emulsifier
+Tocopherols,Vitamin E,Alpha-tocopherol,Antioxidant
+Ascorbic acid,Vitamin C,L-ascorbic acid,Antioxidant
+BHA,BHT,Butylated hydroxyanisole,Preservative
+BHT,Butylated hydroxytoluene,Antioxidant,Preservative
+Calcium sulfate,Plaster of Paris,Food additive,Anticaking agent
+Iron oxide,Red iron oxide,Ferric oxide,Food coloring
+Magnesium sulfate,Epsom salt,Food additive,Anticaking agent
+Lemon oil,Limonene,Citrus oil,Essential oil
+Citronellol,Lemon grass oil,Lemon scented oil,Fragrance
+Benzene,1,2-dimethylbenzene,Toluene,Food contamination (historically)
+Carvacrol,Thymol,Essential oil of oregano,Flavor compound
+Caffeine,1,3,7-trimethylxanthine,Coffee stimulant,Theobromine
+Glucose,Dextrose,Glucose syrup,Monosaccharide
+Fructose,Levulose,Fruit sugar,Simple sugar
+Maltose,Malto-oligosaccharide,Malt sugar,Disaccharide
+Sucralose,Trichlorosucrose,Artificial sweetener,Splenda
+Glycerin,Glycerol,Glycerine,Sweetener
+Sorbitol,Sorbit,Sugar alcohol,Artificial sweetener
+Mannitol,Hexan-1,2,3,4,5-pentol,Manitol,Sugar alcohol
+Xylitol,1,2,3,4,5-Pentahydroxypentane,Wood sugar,Sugar alcohol
+Stevia,Stevioside,Stevia leaf extract,Sweetener
+Tapioca starch,Arrowroot,Starch,Tapioca flour
+Agar,Japanese agar,Carrageenan,Seaweed extract
+Propyl gallate,Propyl 3,4,5-trihydroxybenzoate,Preservative,Antioxidant
+Calcium phosphate,Calcium monophosphate,Food additive,Fortifier
+Fumaric acid,Fumarate,Food acid,Acidulant
+Sodium phosphate,Disodium phosphate,Sodium orthophosphate,Food additive
+Sodium propionate,Propionic acid sodium salt,Preservative,Food additive
+Sodium stearate,Stearic acid sodium salt,Soap,Emulsifier
+Sodium lactate,Sodium salt of lactic acid,Food additive,Preservative
+Sodium tartrate,Trisodium tartrate,Food additive,Anticaking agent
+Lactic acid,Lactate,Lactic acid bacteria,Acidulant
